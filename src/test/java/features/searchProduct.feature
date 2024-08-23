@@ -1,4 +1,5 @@
 Feature:Search and place order for product
+  @SearchProduct
   Scenario: search experience for product search in both home and offers page
 
     Given user is on GreenKart landing page
